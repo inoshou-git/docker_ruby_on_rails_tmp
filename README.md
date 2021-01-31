@@ -1,5 +1,11 @@
 # docker_ruby_on_rails_tmp(docker ruby on rails開発環境)
-docker x ruby v2.6.6 x rails v6.1.1 x mysql2
+各種バージョン
+- macOS big sur 11.1
+- Ruby 2.6.6
+- Rails 6.1.1
+- mysql 8.0
+- docker version 20.10.2
+- docker-compose version 1.27.4
 
 ## セッティング
 任意の場所にプロジェクトフォルダ作成
